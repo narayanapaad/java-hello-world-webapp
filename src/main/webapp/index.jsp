@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Good Ananthu!</h2>
+<h2>Image has been updated!</h2>
 </body>
 </html>
