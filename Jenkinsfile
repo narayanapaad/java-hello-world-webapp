@@ -10,11 +10,7 @@ pipeline{
 
   
   stages{
-       stage('git'){
-         steps{
-             git 'https://github.com/narayanapaad/java-hello-world-webapp.git'
-         }
-       }
+      
     
        stage('build'){
             
